@@ -10,6 +10,10 @@ body {
   font-family: cursive;
 }
 
+h1 {
+  color: #FFFAFA;
+}
+
 .contact {
   margin-left: auto;
   margin-right: auto;
