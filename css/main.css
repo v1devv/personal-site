@@ -6,6 +6,11 @@ body {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  color: #2c2f33;
+  color: #fff;
   font-family: cursive;
+}
+
+.contact {
+  margin-left: auto;
+  margin-right: auto;
 }
